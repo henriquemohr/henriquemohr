@@ -1,4 +1,4 @@
-<!-- Banner: fundo escuro sóbrio, sem animação -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=150&text=Henrique%20Mohr&fontSize=40&fontColor=F0F6FC&fontAlignY=42&desc=Engenheiro%20de%20Software%20%C2%B7%20IA%20Aplicada&descSize=16&descAlignY=68&descColor=9CA3AF" width="100%" />
 
 <p align="center">
@@ -16,7 +16,6 @@
 **Engenheiro de Software** · Novo Hamburgo, RS · **Disponível para novas oportunidades**
 
 Já atuei nas duas pontas do ciclo de vida do software: mantendo sistemas comerciais legados (Delphi 5, Firebird, SQL Server) estáveis em produção e construindo sistemas novos em **C# / .NET** com desenvolvimento assistido por IA.
-Essa combinação me torna útil justamente onde muitos times travam: **modernizar sistemas legados sem quebrar o negócio que roda em cima deles.**
 
 ## O que eu faço
 
@@ -49,8 +48,15 @@ Essa combinação me torna útil justamente onde muitos times travam: **moderniz
 
 **Na prática:** agentes de IA para programação em uma base de código Delphi 5 legada · desenvolvimento .NET assistido por IA
 
+## Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Pós-graduação em Engenharia de Software em IA Aplicada *(cursando)* | [UNIPDS](https://unipds.com.br/gads-pos-ia-v2/) | 2026 – atual |
+| Tecnólogo em Sistemas para Internet | [Universidade Feevale](http://www.feevale.br/) | Fev/2013 – Fev/2016 |
+| Qualificação Técnica em Desenvolvimento de Software | [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](http://www.liberato.com.br/) | Ago/2008 – Jul/2009 |
+
 ## No momento
 
 - 🔭 Construindo sistemas .NET com IA no processo
 - 🤖 Estudando agentes autônomos e sistemas multiagentes
-

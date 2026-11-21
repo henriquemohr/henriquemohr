@@ -1,4 +1,4 @@
-<!-- Banner: fundo escuro sóbrio, sem animação -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=150&text=Henrique%20Mohr&fontSize=40&fontColor=F0F6FC&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Applied%20AI&descSize=16&descAlignY=68&descColor=9CA3AF" width="100%" />
 
 <p align="center">
@@ -16,7 +16,6 @@
 **Software Engineer** · Novo Hamburgo, RS, Brazil · **Open to new opportunities**
 
 I've worked on both ends of the software lifecycle: keeping legacy business systems (Delphi 5, Firebird, SQL Server) stable in production, and building new ones in **C# / .NET** with AI-assisted development.
-That mix makes me useful where most teams get stuck: **modernizing legacy systems without breaking the business that runs on them.**
 
 ## What I do
 
@@ -49,7 +48,17 @@ That mix makes me useful where most teams get stuck: **modernizing legacy system
 
 **Applying it in practice:** AI coding agents for a legacy Delphi 5 codebase · AI-assisted .NET development
 
+## Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| Postgraduate in Software Engineering in Applied AI *(in progress)* | [UNIPDS](https://unipds.com.br/gads-pos-ia-v2/) | 2026 – present |
+| Technologist Degree in Internet Systems | [Universidade Feevale](http://www.feevale.br/) | Feb 2013 – Feb 2016 |
+| Technical Qualification in Software Development | [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](http://www.liberato.com.br/) | Aug 2008 – Jul 2009 |
+
 ## Currently
 
 - 🔭 Building new .NET systems with AI in the loop
 - 🤖 Studying autonomous agents and multi-agent systems
+
+
